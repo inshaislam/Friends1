@@ -1,6 +1,6 @@
 .img{
-    width: 450px;
-    height: 450px;
+    width: 400px;
+    height: 400px;
     
 }
 .section{
@@ -57,4 +57,13 @@
     background-color: black;
     text-align: center;
     height: 70px;
+}
+.im{
+    width: 450px;
+    height: 290px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(13, 31, 78);
 }
