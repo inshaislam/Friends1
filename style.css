@@ -1,6 +1,6 @@
 .img{
-    width: 520px;
-    height: 520px;
+    width: 450px;
+    height: 450px;
     
 }
 .section{
@@ -14,7 +14,7 @@
     padding-right: 6px;
     border-left: 8px solid;
     border-radius: 6px;
-    width: 500px;
+    width: 480px;
     height: 300px;
     overflow-y: scroll;
     
