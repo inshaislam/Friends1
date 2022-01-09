@@ -1,13 +1,13 @@
 .img{
-    width: 400px;
-    height: 400px;
+    width: 380px;
+    height: 380px;
     transition: width 5s ease, height 5s ease, transform 5s;
     
 }
 .img:hover{
-    width: 500px;
-    height: 500px;
-    transform: rotate(280deg);
+    width: 450px;
+    height: 450px;
+    transform: rotate(360deg);
 }
 .section{
     display: flex;
