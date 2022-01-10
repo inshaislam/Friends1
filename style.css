@@ -10,7 +10,7 @@
     transform: rotate(360deg);
 }
 .section{
-    justify-content: space-between;
+    
     display: flex;
     margin-bottom: 100px;
 }
@@ -79,4 +79,7 @@ h1{
     width: 400px;
     margin-left: 300px;
     
+}
+main{
+    justify-content: space-between;
 }
