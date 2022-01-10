@@ -10,6 +10,7 @@
     transform: rotate(360deg);
 }
 .section{
+    justify-content: center;
     display: flex;
     margin-bottom: 100px;
 }
@@ -73,4 +74,9 @@ h1{
     text-align: center;
     font-size: 30px;
     color: rgb(13, 31, 78);
+}
+.video{
+    width: 400px;
+    margin-left: 300px;
+    
 }
