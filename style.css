@@ -10,7 +10,7 @@
     transform: rotate(360deg);
 }
 .section{
-    justify-content: center;
+    justify-content: space-between;
     display: flex;
     margin-bottom: 100px;
 }
